@@ -4,3 +4,4 @@ Helgeprosjekt på hjemmebane som proof of concept for et spill. Mekanikken i spi
 
 Video ligger ute på YouTuber her:
 https://youtu.be/8BCHCKZiWjI
+![alt text](https://github.com/nicolaizen/SoulLauncher/blob/main/soullauncher.jpg?raw=true)
